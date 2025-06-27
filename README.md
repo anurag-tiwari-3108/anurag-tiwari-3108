@@ -19,13 +19,67 @@
 
 ## 💼 Professional Summary
 
-Experienced Senior Software Developer with 10+ years of expertise in architecting, designing, and delivering large-scale, distributed systems across Investment Banking, FinTech, Telecom, Logistics, and Supply Chain. Adept at leading cross-functional teams, driving cloud-native transformation, and building innovative GenAI and automation solutions.
+Senior Software Development Engineer with 10+ years of experience designing and building microservices-based distributed systems. Hands-on with Java, Python, Spring Boot, Node.js, and web services. Skilled in Cloud Native Technologies (Docker, Kubernetes, Helm, AWS), Kafka, SQL/NoSQL DBs. Domain expertise in Telecom Networks (NMS), Payments, Mobile Finance, Logistics & Cargo. Experienced in HLD/LLD, software/module design, and end-to-end SDLC.
 
-- **Cloud-Native & GenAI Builder:** Deep hands-on with AWS, Azure, Docker, Kubernetes, Kafka, and modern observability stacks (ELK, Grafana, Splunk).
-- **Polyglot Engineer:** Java, Python, Node.js, React, FastAPI, Spring Boot, Microservices, REST, GraphQL.
-- **Leadership:** Proven track record in team leadership, client management, and delivering high-quality solutions across India, Indonesia, UK & Europe.
-- **Full SDLC Ownership:** End-to-end delivery, UAT/SIT, agile, stakeholder communication, and continuous improvement.
-- **Continuous Learner:** Passionate about GenAI, LLMs, Next.js, MLOps, and creative automation.
+- **Cloud Native & Distributed Systems:** Docker, Kubernetes, Helm, AWS, Azure, Linux
+- **Programming:** Java, Python, Node.js, Spring Boot, Microservices, REST/SOAP APIs
+- **Data & Messaging:** Kafka, SQL (Postgres, Oracle), NoSQL (Cassandra, Redis, MongoDB)
+- **DevOps & Automation:** Jenkins, Maven, Bitbucket, Git/SVN, CI/CD, ELK Stack
+- **Domain:** Telecom NMS, Mobile Commerce, Payments, Logistics, e-Commerce
+- **Other:** Agile, Client UAT/SIT, HLD/LLD, Design Patterns, Team Leadership
+
+---
+
+## 🏢 Work Experience
+
+**Senior Software Developer – Microsoft (Ireland)**  
+*2025–Present, Dublin, Ireland*  
+Currently building cloud-native, scalable, and GenAI-powered solutions for enterprise clients.
+
+**Senior SDE – LM Ericsson (Ireland)**  
+*11/2022–2024, Athlone, Ireland*  
+- Led migration of legacy network management software to private cloud
+- Designed, developed, and maintained cloud-native NMS
+- Tech: Kubernetes, Docker, Helm, Python, Linux, Web Services
+
+**SDE-II – DP World (Cargoes)**  
+*05/2022–11/2022, Gurgaon, India*  
+- Built enterprise freight forwarding/tracking solutions (Cargoes.com)
+- Designed APIs for coupons, vouchers, login/auth, and handled client requirements
+- Tech: Azure, Node.js, Redis, Kafka, Cassandra, Postgres, Nginx, Microservices
+
+**Software Engineer II (Assistant Manager) – Macquarie Group**  
+*10/2021–05/2022, Gurgaon, India*  
+- Built internal workflow automation platform
+- Tech: Java, Spring Boot, Maven, Microservices, Docker, Linux, Kubernetes, AWS
+
+**Software Lead Developer – Ciena India**  
+*05/2018–10/2021, Gurgaon, India*  
+- Designed/developed NMS platform for network management
+- Built MPLS-based networks, service mesh, and performance metrics
+- Tech: Java, Python, Spring, Web Services, Docker, Kafka, Kubernetes
+
+**Software Developer – Amdocs India**  
+*03/2014–12/2016, Gurgaon, India*  
+- Developed mobile commerce solutions for global clients (SBI-Mobicash, Excelcom, Digicel, Astra, Tigo)
+- Involved in requirement gathering, SIT/UAT, delivery, and client support
+- Tech: Java/J2EE, Spring MVC, Hibernate, Oracle, Linux, SVN, JBoss
+
+---
+
+## 🎓 Education
+
+**B.Tech. in Electronics & Communication**  
+Rajasthan Technical University (Kota), 2009–2013, 67.83%
+
+---
+
+## 🏅 Certifications & Accomplishments
+
+- BCSS Cloud Fundamental Level 2024 ([Credly](https://www.credly.com/badges/05f8e520-6f2d-4b38-8789-aa2646c4ab62/linked_in_profile))
+- BCSS R&D (NDO) ([Credly](https://www.credly.com/badges/0d9266ae-d7d6-4619-a761-e199d955d8e8/linked_in_profile))
+- Kubernetes & Helm Certified Developer ([DiplomaSafe](https://app.diplomasafe.com/en-US/diploma/d287d2dfdb82efc816bfdf40e6f2f9d58807a9b8d))
+- Master Microservices ([Udemy](https://www.udemy.com/certificate/UC-4bc95f2b-f4b2-4295-a2a9-de8101f47d13/))
 
 ---
 
