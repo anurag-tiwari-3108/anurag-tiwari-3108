@@ -80,7 +80,7 @@ Successfully delivered projects and led engineering efforts in:
 > **Curious | Creative | Collaborative | Builder**
 
 - 🧑‍💻 Senior Software Developer @ Microsoft (Ireland)
-- 🏆 Ex-Senior SDE @ Ericsson, Ciena, Macquarie, Zomato
+- 🏆 Ex-Senior SDE @ Ericsson, DP World, Ciena, Macquarie, Amdocs
 - 🌍 Building cloud-native, scalable, and GenAI-powered apps
 - 💡 Strong believer in open source, continuous learning, and knowledge sharing
 - 🤝 Always happy to connect & collaborate!
@@ -94,7 +94,6 @@ Successfully delivered projects and led engineering efforts in:
 
 | 🚀 Project | 📝 Description | 🧰 Tech Stack |
 |-----------|---------------|--------------|
-| [RealTime Analytics Dashboard](#) | Live insights for businesses, built for scale & speed | React, Node.js, WebSocket, AWS, Chart.js |
 | [Fintech Microservices API](#) | Modular, secure fintech backend for modern apps | Spring Boot, Docker, PostgreSQL, Kafka |
 | [GenAI Chatbot Platform](#) | AI-powered chat automation for customer support | Python, FastAPI, LangChain, Azure OpenAI |
 | [Network Management Suite](#) | Telecom network management, asset tracking, and automation | Java, Spring Boot, Kafka, Docker, Kubernetes |
@@ -139,12 +138,11 @@ Successfully delivered projects and led engineering efforts in:
 <summary>🎲 Quick Facts & Hobbies</summary>
 <br>
 
-- 🎸 Music fuels my creativity
 - 🚴‍♂️ Cycling clears my mind
 - 🧩 Love puzzles, hackathons, and AI side-projects
 - 🌏 Always up for a travel adventure!
-- 🏸 Badminton & Table Tennis enthusiast
-- 📷 Amateur photographer & tech blogger
+- 🏸 Badminton & Tennis enthusiast
+- 📷 Amateur photographer 
 </details>
 
 ---
