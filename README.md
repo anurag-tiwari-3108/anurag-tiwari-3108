@@ -70,7 +70,7 @@ Currently building cloud-native, scalable, and GenAI-powered solutions for enter
 ## 🎓 Education
 
 **B.Tech. in Electronics & Communication**  
-Rajasthan Technical University (Kota), 2009–2013, 67.83%
+Rajasthan Technical University (Kota), 2009–2013.
 
 ---
 
